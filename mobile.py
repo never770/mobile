@@ -10,6 +10,8 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 
 data = pd.read_csv("D://study//game//mobile//test_datas.csv") # https://www.cnblogs.com/guochangyu/p/7788414.html
+
+
 #data = pd.read_csv("https://github.com/zefang/Mobile-carrier-competition/raw/master/datas.csv") # read online data https://blog.csdn.net/Maverick_7/article/details/79026887
 #print(data.head())
 
